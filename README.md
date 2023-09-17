@@ -1,6 +1,6 @@
-# <h1 align="center">Hey, I'm Sharmin Khan 👋</h1>
+# Hey, I'm Sharmin Khan 👋
 
-<h3 align="center">A passionate full stack web developer from Bangladesh</h3>
+A passionate full stack web developer from Bangladesh
 
 ## Who's me🤔?
 
