@@ -1,4 +1,4 @@
-# Hey, I'm Sharmin Khan 👋
+# <h1 align="center">Hey, I'm Sharmin Khan 👋</h1>
 
 <h3 align="center">A passionate full stack web developer from Bangladesh</h3>
 
