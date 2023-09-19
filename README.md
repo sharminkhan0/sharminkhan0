@@ -32,9 +32,9 @@ Let me write quickly about myself without bragging:
 
 ### ⚡ GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharminkhan0&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&title_color=FF6347&text_color=7D5EA9&icon_color=FF6347&border_color=7D5EA9&border_radius=10)](https://github.com/sharminkhan0)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharminkhan0&langs_count=10&layout=compact&title_color=FF6347&text_color=7D5EA9&custom_title=Most%20Used%20Languages&border_color=7D5EA9&border_radius=10)](https://github.com/sharminkhan0)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharminkhan0&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&title_color=FF6347&text_color=7D5EA9&icon_color=FF6347&border_color=7D5EA9&border_radius=10)](https://github.com/sharminkhan0)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sharminkhan0&theme=github-light&border_radius=10&ring=FF6347&fire=FF6347&currStreakNum=7D5EA9&border=7D5EA9&sideLabels=000000&sideNums=7D5EA9&currStreakLabel=000000&dates=FF6347&stroke=7D5EA94F)](https://git.io/streak-stats)
 
