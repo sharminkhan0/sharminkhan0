@@ -1,8 +1,8 @@
 # Hey, I'm Sharmin Khan 👋
 
-<div id="header" align="center">
+<div align="center">
   <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="100"/>
-  
+</div>  
 ## A passionate full stack web developer from Bangladesh.
 
 ## Who's me🤔?
