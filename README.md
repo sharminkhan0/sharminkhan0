@@ -1,11 +1,12 @@
  <div align="center">
   <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="100"  align="center">
   <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!</h2>
-</div>
-     
+</div>  
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&duration=4000&pause=500&color=7D5EA9&center=true&vCenter=true&width=650&height=85&lines=Welcome+to+Sharmin's+GitHub!;I'm+a+Full-Stack+Developer!" alt="Typing SVG" />
 </div>
+<br/>
+   
 ## Who Am I ? 🤔
  _Let me write quickly about myself without bragging:_
 - 🥈 Physicist by Degree and Software Developer by passion.
@@ -14,9 +15,11 @@
 - 🌍 Collaborating with web developers from around the world.
 - ✨ Full-time coder and part-time? Let's keep it simple, a coder.
 - 🚀 Eager to write code to explore space and galaxies.
-- ❤ Love working with `.html`, `.css`, `.scss`, `.js`, `.jsx`, `.json`, `.yml`, `.sql`, 
+- ❤ Love working with `.html`, `.css`, `.scss`, `.js`, `.jsx`, `.json`, `.yml`
 - 😄 Passionate about accessibility and a web that works for everyone.
+  
 </br>
+
 ## Tech Stack 🛠
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src='https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E' alt="javascript" /></a>
 <a href="https://webpack.js.org/"><img src='https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=black' alt="webpack" /></a>
