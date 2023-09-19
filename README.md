@@ -74,7 +74,7 @@
 </br>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#138](https://github.com/sharminkhan0/Capstone) in (https://github.com/sharminkhan0/Capstone)
+1. 🗣 Commented on [#138](https://github.com/sharminkhan0/Capstone/pull/5) in [sharminkhan0/Capstone](https://github.com/sharminkhan0/Capstone)
 <!--2. 🎉 Merged PR [#13](https://github.com/KanzaTahreem/Blog-App/pull/13) in [KanzaTahreem/Blog-App](https://github.com/KanzaTahreem/Blog-App)
 1. 🎉 Merged PR [#25](https://github.com/KanzaTahreem/Recipe-App/pull/25) in [KanzaTahreem/Recipe-App](https://github.com/KanzaTahreem/Recipe-App)
 2. 💪 Opened PR [#25](https://github.com/KanzaTahreem/Recipe-App/pull/25) in [KanzaTahreem/Recipe-App](https://github.com/KanzaTahreem/Recipe-App)
