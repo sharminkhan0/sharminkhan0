@@ -89,8 +89,8 @@
 
 </br>
 <!-- BLOG-POST-LIST:START -->
-<!--- [A Beginner’s Guide to Sass](https://medium.com/@KanzaTahreem/a-beginners-guide-to-sass-9caa43365ed1?source=rss-79568a95db75------2)
-- [7 Ways to Step Out of Your Comfort Zone](https://medium.com/@KanzaTahreem/7-ways-to-step-out-of-your-comfort-zone-de13037e327a?source=rss-79568a95db75------2)
+- [“Efficient Coding: DRY, KISS, and YAGNI Explained Simply”](https://medium.com/@sharminakterkhan0/efficient-coding-dry-kiss-and-yagni-explained-simply-3fdfdb090fca)
+<!--- [7 Ways to Step Out of Your Comfort Zone](https://medium.com/@KanzaTahreem/7-ways-to-step-out-of-your-comfort-zone-de13037e327a?source=rss-79568a95db75------2)
 - [The reality of Comfort Zones](https://medium.com/@KanzaTahreem/stepping-outside-of-comfort-zone-919fac3414c8?source=rss-79568a95db75------2)
 
 <!-- BLOG-POST-LIST:END -->
