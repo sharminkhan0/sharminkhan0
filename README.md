@@ -11,7 +11,7 @@
  _Let me write quickly about myself without bragging:_
 - 🥈 Physicist by Degree and Software Developer by passion.
 - 👩‍🎓 Enrolled at [Microverse](https://github.com/microverseinc) to elevate my coding skills.
-- 💻 Currently working on [My Portfolio](https://github.com/sharminkhan0/My-Portfolio).
+- 💻 Currently working on [Leaderboard](https://github.com/sharminkhan0/)
 - 🌍 Collaborating with web developers from around the world.
 - ✨ Full-time coder and part-time? Let's keep it simple, a coder.
 - 🚀 Eager to write code to explore space and galaxies.
