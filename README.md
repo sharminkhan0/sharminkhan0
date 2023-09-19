@@ -75,12 +75,12 @@
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#138](https://github.com/sharminkhan0/Capstone/pull/5) in [sharminkhan0/Capstone](https://github.com/sharminkhan0/Capstone)
-<!--2. 🎉 Merged PR [#13](https://github.com/KanzaTahreem/Blog-App/pull/13) in [KanzaTahreem/Blog-App](https://github.com/KanzaTahreem/Blog-App)
-1. 🗣 Commented on [#25](https://github.com/KanzaTahreem/Recipe-App/pull/25) in [KanzaTahreem/Recipe-App](https://github.com/KanzaTahreem/Recipe-App)
-2. 💪 Opened PR [#25](https://github.com/KanzaTahreem/Recipe-App/pull/25) in [KanzaTahreem/Recipe-App](https://github.com/KanzaTahreem/Recipe-App)
-3. 💪 Opened PR [#13](https://github.com/KanzaTahreem/Blog-App/pull/13) in [KanzaTahreem/Blog-App](https://github.com/KanzaTahreem/Blog-App)
-4. 🗣 Commented on [#34](https://github.com/bilalrajput09/Catalog-of-my-things/issues/34#issuecomment-1637943748) in [bilalrajput09/Catalog-of-my-things](https://github.com/bilalrajput09/Catalog-of-my-things)
-5. 💪 Opened PR [#2](https://github.com/KanzaTahreem/Byte-Brawl-Backend/pull/2) in [KanzaTahreem/Byte-Brawl-Backend](https://github.com/KanzaTahreem/Byte-Brawl-Backend)
+<!--2. 🎉 Merged PR [#13](https:/sharminkhan0/github.com/sharminkhan0/Blog-App/pull/13) in [sharminkhan0/Blog-App](https:/sharminkhan0/github.com//Blog-App)
+1. 🗣 Commented on [#25](https:/sharminkhan0/github.com/sharminkhan0/Recipe-App/pull/25) in [sharminkhan0/Recipe-App](https:/sharminkhan0/github.com//Recipe-App)
+2. 💪 Opened PR [#25](https:/sharminkhan0/github.com/sharminkhan0/Recipe-App/pull/25) in [sharminkhan0/Recipe-App](https:/sharminkhan0/github.com//Recipe-App)
+3. 💪 Opened PR [#13](https:/sharminkhan0/github.com/sharminkhan0/Blog-App/pull/13) in [sharminkhan0/Blog-App](https:/sharminkhan0/github.com//Blog-App)
+4. 🗣 Commented on [#34](https:/sharminkhan0/github.com/bilalrajput09/Catalog-of-my-things/issues/34#issuecomment-1637943748) in [bilalrajput09/Catalog-of-my-things](https://github.com/bilalrajput09/Catalog-of-my-things)
+5. 💪 Opened PR [#2](https:/sharminkhan0/github.com/sharminkhan0/Byte-Brawl-Backend/pull/2) in [sharminkhan0/Byte-Brawl-Backend](https://github.com/sharminkhan0/Byte-Brawl-Backend)
 <!--END_SECTION:activity-->
 
 </br>
@@ -92,8 +92,8 @@
 <!-- BLOG-POST-LIST:START -->
 
 - [Efficient Coding: DRY, KISS, and YAGNI Explained Simply](https://medium.com/@sharminakterkhan0/efficient-coding-dry-kiss-and-yagni-explained-simply-3fdfdb090fca)
-<!--- [7 Ways to Step Out of Your Comfort Zone](https://medium.com/@KanzaTahreem/7-ways-to-step-out-of-your-comfort-zone-de13037e327a?source=rss-79568a95db75------2)
-- [The reality of Comfort Zones](https://medium.com/@KanzaTahreem/stepping-outside-of-comfort-zone-919fac3414c8?source=rss-79568a95db75------2)
+<!--- [7 Ways to Step Out of Your Comfort Zone](https://medium.com/@sharminkhan0/7-ways-to-step-out-of-your-comfort-zone-de13037e327a?source=rss-79568a95db75------2)
+- [The reality of Comfort Zones](https://medium.com/@sharminkhan0/stepping-outside-of-comfort-zone-919fac3414c8?source=rss-79568a95db75------2)
 
 <!-- BLOG-POST-LIST:END -->
 
