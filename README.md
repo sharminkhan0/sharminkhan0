@@ -74,8 +74,8 @@
 </br>
 
 <!--START_SECTION:activity-->
-<!--1. 🗣 Commented on [#22](https://github.com/Rebelzob/capstone-project-module2/issues/22#issuecomment-1659202176) in [Rebelzob/capstone-project-module2](https://github.com/Rebelzob/capstone-project-module2)
-2. 🎉 Merged PR [#13](https://github.com/KanzaTahreem/Blog-App/pull/13) in [KanzaTahreem/Blog-App](https://github.com/KanzaTahreem/Blog-App)
+1. 🗣 Commented on (https://github.com/sharminkhan0/Capstone) (https://github.com/sharminkhan0/Capstone)
+<!--2. 🎉 Merged PR [#13](https://github.com/KanzaTahreem/Blog-App/pull/13) in [KanzaTahreem/Blog-App](https://github.com/KanzaTahreem/Blog-App)
 1. 🎉 Merged PR [#25](https://github.com/KanzaTahreem/Recipe-App/pull/25) in [KanzaTahreem/Recipe-App](https://github.com/KanzaTahreem/Recipe-App)
 2. 💪 Opened PR [#25](https://github.com/KanzaTahreem/Recipe-App/pull/25) in [KanzaTahreem/Recipe-App](https://github.com/KanzaTahreem/Recipe-App)
 3. 💪 Opened PR [#13](https://github.com/KanzaTahreem/Blog-App/pull/13) in [KanzaTahreem/Blog-App](https://github.com/KanzaTahreem/Blog-App)
