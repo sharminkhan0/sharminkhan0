@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&duration=4000&pause=500&color=7D5EA9&center=true&vCenter=true&width=650&height=85&lines=Welcome+to+Sharmin's+GitHub!;I'm+a+Full-Stack+Developer!" alt="Typing SVG" />
 </div>
 <br/>
-   <img src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" width="100"  align="center">
+   <img src="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr" width="100"  align="center">
    
 ## Who Am I ? 🤔
  _Let me write quickly about myself without bragging:_
