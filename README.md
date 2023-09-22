@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&duration=4000&pause=500&color=7D5EA9&center=true&vCenter=true&width=650&height=85&lines=Welcome+to+Sharmin's+GitHub!;I'm+a+Full-Stack+Developer!" alt="Typing SVG" />
 </div>
 <br/>
-   
+   <iframe src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr">via GIPHY</a></p>
 ## Who Am I ? 🤔
  _Let me write quickly about myself without bragging:_
 - 🥈 Physicist by Degree and Software Developer by passion.
