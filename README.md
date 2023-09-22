@@ -4,10 +4,12 @@
 </div>  
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&duration=4000&pause=500&color=7D5EA9&center=true&vCenter=true&width=650&height=85&lines=Welcome+to+Sharmin's+GitHub!;I'm+a+Full-Stack+Developer!" alt="Typing SVG" />
+
+ <img 
+src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmhreG9jcWFpdXNod2szOHYyNTdxdGNheWxxcm94ZTRib3R2MnUxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="500"  align="center">
 </div>
 <br/>
-   <img 
-src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmhreG9jcWFpdXNod2szOHYyNTdxdGNheWxxcm94ZTRib3R2MnUxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="100"  align="center">
+   
    
 ## Who Am I ? 🤔
  _Let me write quickly about myself without bragging:_
