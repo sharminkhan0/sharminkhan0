@@ -29,7 +29,7 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmhreG9jcWFpdXNod2szOHYyNT
 <div align="center" style="witdh:100%"> 
   <table>
     <tr>
-      <td valign="center" width="150px"><b>Frontend<b></td>
+      <td valign="center" width="150px" fontSize="50px"><b>Frontend<b></td>
       <td valign="center" width="150px"><b>Backend<b></td>
       <td valign="center" width="150px"><b>Dev<b></td>
     </tr>
@@ -63,7 +63,7 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmhreG9jcWFpdXNod2szOHYyNT
   
  <table>
     <tr>
-      <td valign="center" width="100px"><b>Design<b></td>
+      <td valign="center" width="150px"><b>Design<b></td>
     </tr>
     <tr>
      <td valign="center" align="center" width="300px">
