@@ -34,7 +34,7 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmhreG9jcWFpdXNod2szOHYyNT
       <td valign="center" width="150px"><b>Dev<b></td>
     </tr>
     <tr>
-      <td valign="center" align="center" width="300px">
+      <td valign="center" align="center" width="350px">
         <img src="https://img.shields.io/badge/HTML-blue" /> 
         <img src="https://img.shields.io/badge/CSS-blue" />
         <img src="https://img.shields.io/badge/JavaScript-blue" />  
@@ -43,14 +43,14 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmhreG9jcWFpdXNod2szOHYyNT
         <img src="https://img.shields.io/badge/Bootstrap-blue" /> 
         <img src="https://img.shields.io/badge/SASS-blue" /> 
       </td>      
-      <td valign="center" align="center" width="300px">
+      <td valign="center" align="center" width="350px">
         <img src="https://img.shields.io/badge/Ruby-blue" /> 
         <img src="https://img.shields.io/badge/Rails-blue" /> 
         <img src="https://img.shields.io/badge/Node.js-blue" /> 
 <!--         <img src="https://img.shields.io/badge/Python-blue" />  -->
 <!--         <img src="https://img.shields.io/badge/Java-blue" /> -->
       </td>
-      <td valign="center" align="center" width="300px">
+      <td valign="center" align="center" width="350px">
         <img src="https://img.shields.io/badge/ViteJS-blue" />
         <img src="https://img.shields.io/badge/Webpack-blue" /> 
       <!--  <img src="https://img.shields.io/badge/TDD-blue" /> -->
@@ -66,7 +66,7 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmhreG9jcWFpdXNod2szOHYyNT
       <td valign="center" width="150px"><b>Design<b></td>
     </tr>
     <tr>
-     <td valign="center" align="center" width="300px">
+     <td valign="center" align="center" width="350px">
        <img src="https://img.shields.io/badge/Adobe Photoshop-blue" /> 
        <img src="https://img.shields.io/badge/Adobe After Effects-blue" /> 
        <img src="https://img.shields.io/badge/Adobe Premiere Pro-blue" /> 
