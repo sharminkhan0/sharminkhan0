@@ -35,11 +35,11 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmhreG9jcWFpdXNod2szOHYyNT
     </tr>
     <tr>
       <td valign="center" align="center" width="300px">
-       <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src='https://img.shields.io/badge/html-%23323330.svg?style=for-the-badge&logo=html&logoColor=%23F7DF1E' alt="html" /></a>
-       <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src='https://img.shields.io/badge/css-%23323330.svg?style=for-the-badge&logo=css&logoColor=%23F7DF1E' alt="csst" /></a>
-       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src='https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E' alt="javascript" /></a>
-        <img src="https://img.shields.io/badge/TypeScript-blue" />
-        <img src="https://img.shields.io/badge/React-blue" /> 
+        <img src="https://img.shields.io/badge/HTML-blue" /> 
+        <img src="https://img.shields.io/badge/CSS-blue" />
+        <img src="https://img.shields.io/badge/JavaScript-blue" />  
+        <!--<img src="https://img.shields.io/badge/TypeScript-blue" />
+        <img src="https://img.shields.io/badge/React-blue" /> -->
         <img src="https://img.shields.io/badge/Bootstrap-blue" /> 
         <img src="https://img.shields.io/badge/SASS-blue" /> 
       </td>      
@@ -53,10 +53,10 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmhreG9jcWFpdXNod2szOHYyNT
       <td valign="center" align="center" width="300px">
         <img src="https://img.shields.io/badge/ViteJS-blue" />
         <img src="https://img.shields.io/badge/Webpack-blue" /> 
-        <img src="https://img.shields.io/badge/TDD-blue" /> 
+      <!--  <img src="https://img.shields.io/badge/TDD-blue" /> -->
         <img src="https://img.shields.io/badge/Jest-blue" /> 
-        <img src="https://img.shields.io/badge/MySQL-blue" /> 
-        <img src="https://img.shields.io/badge/PostgreSQL-blue" /> 
+       <!-- <img src="https://img.shields.io/badge/MySQL-blue" /> 
+        <img src="https://img.shields.io/badge/PostgreSQL-blue" /> -->
       </td>
     </tr>
   </table>
@@ -71,15 +71,18 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmhreG9jcWFpdXNod2szOHYyNT
        <img src="https://img.shields.io/badge/Adobe After Effects-blue" /> 
        <img src="https://img.shields.io/badge/Adobe Premiere Pro-blue" /> 
        <img src="https://img.shields.io/badge/Figma-blue" /> 
-       <img src="https://img.shields.io/badge/WebGL-blue" /> 
-       <img src="https://img.shields.io/badge/Three.js-blue" /> 
+       <img src="https://img.shields.io/badge/Canva-blue" />
+       <!--<img src="https://img.shields.io/badge/WebGL-blue" /> 
+       <img src="https://img.shields.io/badge/Three.js-blue" /> -->
       </td>
     </tr>
   </table>
 </div>
 
 <!---
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src='https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E' alt="javascript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src='https://img.shields.io/badge/html-%23323330.svg?style=for-the-badge&logo=html&logoColor=%23F7DF1E' alt="html" /></a>
+       <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src='https://img.shields.io/badge/css-%23323330.svg?style=for-the-badge&logo=css&logoColor=%23F7DF1E' alt="csst" /></a>
+       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src='https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E' alt="javascript" /></a>
 <a href="https://webpack.js.org/"><img src='https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=black' alt="webpack" /></a>
 <!--a href="https://react.dev/"><img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' alt="react" /></a>
 <a href="https://nextjs.org/"><img src='https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white' alt="nextJS" /></a>
