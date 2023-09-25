@@ -13,7 +13,7 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmhreG9jcWFpdXNod2szOHYyNT
    
 ## Who Am I ? 🤔
  _Let me write quickly about myself without bragging:_
-- 🥈 Physicist by Degree and Software Developer by passion.
+- 🥈 MBA in Finance & Banking by Degree also an entrepreneur and Software Developer by passion.
 - 👩‍🎓 Enrolled at [Microverse](https://github.com/microverseinc) to elevate my coding skills.
 - 💻 Currently working on [Leaderboard](https://github.com/sharminkhan0/)
 - 🌍 Collaborating with web developers from around the world.
