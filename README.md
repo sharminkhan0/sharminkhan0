@@ -35,7 +35,7 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmhreG9jcWFpdXNod2szOHYyNT
     </tr>
     <tr>
       <td valign="center" align="center" width="350px">
-       <a href="https://developer.mozilla.org/en-US/docs/Web/HTML-blue"><img src='https://img.shields.io/badge/html-%23323330.svg?style=for-the-badge&logo=html&logoColor=%23F7DF1E' alt="html" /></a>
+       <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src='https://img.shields.io/badge/html-blue.svg?style=for-the-badge&logo=html&logoColor=%23F7DF1E' alt="html" /></a>
        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src='https://img.shields.io/badge/css-%23323330.svg?style=for-the-badge&logo=css&logoColor=%23F7DF1E' alt="csst" /></a>
        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src='https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E' alt="javascript" /></a>
         <img src="https://img.shields.io/badge/HTML-blue" /> 
