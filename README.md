@@ -49,7 +49,7 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmhreG9jcWFpdXNod2szOHYyNT
         <img src="https://img.shields.io/badge/SASS-blue" /> -->
       </td>      
       <td valign="center" align="center" width="350px">
-        <img src="https://img.shields.io/badge/Ruby-blue" /> 
+      <!--  <img src="https://img.shields.io/badge/Ruby-blue" /> 
         <img src="https://img.shields.io/badge/Rails-blue" /> 
         <img src="https://img.shields.io/badge/Node.js-blue" /> 
 <!--         <img src="https://img.shields.io/badge/Python-blue" />  -->
