@@ -37,7 +37,7 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmhreG9jcWFpdXNod2szOHYyNT
       <td valign="center" align="center" width="300px">
         <img src="https://img.shields.io/badge/HTML-blue" /> 
         <img src="https://img.shields.io/badge/CSS-blue" />
-       <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src='https://img.shields.io/badge/html-%23323330.svg?style=for-the-badge&logo=html&logoColor=%23F7DF1E' alt="html" /></a>
+       <a href="https://developer.mozilla.org/en-US/docs/Web/HTML-blue"><img src='https://img.shields.io/badge/html-%23323330.svg?style=for-the-badge&logo=html&logoColor=%23F7DF1E' alt="html" /></a>
         <img src="https://img.shields.io/badge/JavaScript-blue" />  
         <img src="https://img.shields.io/badge/TypeScript-blue" />
         <img src="https://img.shields.io/badge/React-blue" /> 
