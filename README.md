@@ -89,7 +89,7 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmhreG9jcWFpdXNod2szOHYyNT
     </tr>
   </table>
 </div>
-canva
+
 <!---
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src='https://img.shields.io/badge/html-%23323330.svg?style=for-the-badge&logo=html&logoColor=%23F7DF1E' alt="html" /></a>
        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src='https://img.shields.io/badge/css-%23323330.svg?style=for-the-badge&logo=css&logoColor=%23F7DF1E' alt="csst" /></a>
