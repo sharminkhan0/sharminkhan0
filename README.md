@@ -177,6 +177,16 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmhreG9jcWFpdXNod2szOHYyNT
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
 
+</br>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=SaveryIV&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+</br>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 <!---
 skarminkhan0/sharminkhan0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
