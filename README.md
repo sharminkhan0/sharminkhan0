@@ -15,7 +15,7 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmhreG9jcWFpdXNod2szOHYyNT
  _Let me write quickly about myself without bragging:_
 - 🥈 MBA in Finance & Banking by Degree also an entrepreneur and Software Developer by passion.
 - 👩‍🎓 Enrolled at [Microverse](https://github.com/microverseinc) to elevate my coding skills.
-- 💻 Currently working on [Math-magicians](https://github.com/sharminkhan0/)
+- 💻 Currently working on [bookstore ](https://github.com/sharminkhan0/)
 - 🌍 Collaborating with web developers from around the world.
 - ✨ Full-time coder and part-time? Let's keep it simple, a coder.
 - 🚀 Eager to write code to explore space and galaxies.
