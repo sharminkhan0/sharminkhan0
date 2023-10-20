@@ -168,7 +168,7 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmhreG9jcWFpdXNod2szOHYyNT
 <!-- BLOG-POST-LIST:START -->
 
 - [Efficient Coding: DRY, KISS, and YAGNI Explained Simply](https://medium.com/@sharminakterkhan0/efficient-coding-dry-kiss-and-yagni-explained-simply-3fdfdb090fca)
-["Unlocking Team Synergy: Elevate Productivity and Code Quality with Mob Programming"](https://medium.com/@sharminakterkhan0/unlocking-team-synergy-elevate-productivity-and-code-quality-with-mob-programming-c11a16af743e)
+- ["Unlocking Team Synergy: Elevate Productivity and Code Quality with Mob Programming"](https://medium.com/@sharminakterkhan0/unlocking-team-synergy-elevate-productivity-and-code-quality-with-mob-programming-c11a16af743e)
 <!-- [The reality of Comfort Zones](https://medium.com/@sharminkhan0/stepping-outside-of-comfort-zone-919fac3414c8?source=rss-79568a95db75------2)
 
 <!-- BLOG-POST-LIST:END -->
