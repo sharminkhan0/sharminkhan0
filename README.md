@@ -34,12 +34,14 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmhreG9jcWFpdXNod2szOHYyNT
       <td valign="center" width="150px"><b>Dev<b></td>
     </tr>
     <tr>
-      <td valign="center" align="center" width="350px">
+      <td valign="center" align="center" width="350px"> <!--frontend-->
        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src='https://img.shields.io/badge/html-red.svg?style=for-the-badge&logo=html&logoColor=red' alt="html" /></a>
        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src='https://img.shields.io/badge/css-blue.svg?style=for-the-badge&logo=css&logoColor=blue' alt="csst" /></a>
        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src='https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E' alt="javascript" /></a>
        <a href="https://sass-lang.com/"><img src='https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white' alt="sass" /></a> 
 <a href="https://getbootstrap.com/"><img src='https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white' alt="bootstrap" /></a>
+       <a href="https://react.dev/"><img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' alt="react" /></a>
+       <a href="https://typeScript.dev/"><img src='https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typeScript&logoColor=61DAFB' alt="typeScript" /></a>
         <!--<img src="https://img.shields.io/badge/HTML-blue" /> 
         <img src="https://img.shields.io/badge/CSS-blue" />
         <img src="https://img.shields.io/badge/JavaScript-blue" />  
@@ -48,14 +50,14 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmhreG9jcWFpdXNod2szOHYyNT
         <img src="https://img.shields.io/badge/Bootstrap-blue" /> 
         <img src="https://img.shields.io/badge/SASS-blue" /> -->
       </td>      
-      <td valign="center" align="center" width="350px">
+      <td valign="center" align="center" width="350px"> <!--Backend-->
       <!--  <img src="https://img.shields.io/badge/Ruby-blue" /> 
         <img src="https://img.shields.io/badge/Rails-blue" />  
         <img src="https://img.shields.io/badge/Node.js-blue" /> -->
 <!--         <img src="https://img.shields.io/badge/Python-blue" />  
 <!--         <img src="https://img.shields.io/badge/Java-blue" /> -->
       </td>
-      <td valign="center" align="center" width="350px">
+      <td valign="center" align="center" width="350px"> <!---Dev--->
        <a href="https://webpack.js.org/"><img src='https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=black' alt="webpack" /></a>
        <a href="https://jestjs.io/"><img src='https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white' alt="jest" /></a>
        <a href="https://testing-library.com/docs/react-testing-library/intro/"><img src='https://img.shields.io/badge/-React_Testing_Library-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white' alt="react-testing-library" /></a>
