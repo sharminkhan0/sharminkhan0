@@ -61,6 +61,7 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmhreG9jcWFpdXNod2szOHYyNT
        <a href="https://webpack.js.org/"><img src='https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=black' alt="webpack" /></a>
        <a href="https://jestjs.io/"><img src='https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white' alt="jest" /></a>
        <a href="https://testing-library.com/docs/react-testing-library/intro/"><img src='https://img.shields.io/badge/-React_Testing_Library-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white' alt="react-testing-library" /></a>
+       <a href="https://viteJS.com/docs/viteJS/intro/"><img src='https://img.shields.io/badge/ViteJS-%23E33332?style=for-the-badge&logo=viteJS&logoColor=white' alt="viteJS" /></a>
        <!-- <img src="https://img.shields.io/badge/ViteJS-blue" />
         <img src="https://img.shields.io/badge/Webpack-blue" /> 
         <img src="https://img.shields.io/badge/TDD-blue" />
