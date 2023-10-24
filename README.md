@@ -57,7 +57,7 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmhreG9jcWFpdXNod2szOHYyNT
        <a href="https://testing-library.com/docs/react-testing-library/intro/"><img src='https://img.shields.io/badge/-React_Testing_Library-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white' alt="react-testing-library" /></a>
        <a href="https://viteJS.com/docs/viteJS/intro/"><img src='https://img.shields.io/badge/ViteJS-%23E33332?style=for-the-badge&logo=viteJS&logoColor=white' alt="viteJS" /></a>
       
-        <!--  <img src="https://img.shields.io/badge/TDD-blue" />
+        <!--<img src="https://img.shields.io/badge/TDD-blue" />
 
        <!-- <img src="https://img.shields.io/badge/MySQL-blue" /> 
         <img src="https://img.shields.io/badge/PostgreSQL-blue" /> -->
