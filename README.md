@@ -51,6 +51,7 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmhreG9jcWFpdXNod2szOHYyNT
         <img src="https://img.shields.io/badge/SASS-blue" /> -->
       </td>      
       <td valign="center" align="center" width="350px"> <!--Backend-->
+       <a href="https://node.js.org/"><img src='https://img.shields.io/badge/Node-8DD6F9?style=for-the-badge&logo=Node&logoColor=green' alt="Node" /></a>
       <!--  <img src="https://img.shields.io/badge/Ruby-blue" /> 
         <img src="https://img.shields.io/badge/Rails-blue" />  -->
         <img src="https://img.shields.io/badge/Node.js-blue" /> 
@@ -169,7 +170,7 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmhreG9jcWFpdXNod2szOHYyNT
 
 - [Efficient Coding: DRY, KISS, and YAGNI Explained Simply](https://medium.com/@sharminakterkhan0/efficient-coding-dry-kiss-and-yagni-explained-simply-3fdfdb090fca)
 - ["Unlocking Team Synergy: Elevate Productivity and Code Quality with Mob Programming"](https://medium.com/@sharminakterkhan0/unlocking-team-synergy-elevate-productivity-and-code-quality-with-mob-programming-c11a16af743e)
-<!-- [The reality of Comfort Zones](https://medium.com/@sharminkhan0/stepping-outside-of-comfort-zone-919fac3414c8?source=rss-79568a95db75------2)
+- [Accessing Pseudocode’s Potential: A Comprehensive Guide to Its Applications, Benefits, Composition Process, and Samples](https://medium.com/@sharminakterkhan0/accessing-pseudocodes-potential-a-comprehensive-guide-to-its-applications-benefits-composition-9381e36d66b1)
 
 <!-- BLOG-POST-LIST:END -->
 
