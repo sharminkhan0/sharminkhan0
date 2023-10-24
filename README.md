@@ -134,7 +134,7 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmhreG9jcWFpdXNod2szOHYyNT
 <a href='https://www.linkedin.com/in/sharmin-akter-khan-62063419b/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt="linkedin" /></a>
 <a href='https://twitter.com/SharminAkterKh'><img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white' alt="twitter" /></a>
 <a href='https://replit.com/@Sharmin-AkterAk'><img src='https://img.shields.io/badge/Replit-1DA1F2?style=for-the-badge&logo=Replit&logoColor=white' alt="Replit" /></a>
-<a href='https://www.hackerrank.com/profile/sharminakterkha1'><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg/img.shields.io/badge/hackerrank-1DA1F2?style=for-the-badge&logo=hackerrank&logoColor=white'" alt="hackerrank" height="30" width="30" /></a>
+<a href='https://www.hackerrank.com/sharminakterkha1'><img src="https://img.shields.io/badge/hackerrank-1DA1F2?style=for-the-badge&logo=hackerrank&logoColor=white'" alt="hackerrank" /></a>
 
 </br>
 
