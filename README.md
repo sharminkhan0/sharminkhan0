@@ -42,19 +42,12 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmhreG9jcWFpdXNod2szOHYyNT
 <a href="https://getbootstrap.com/"><img src='https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white' alt="bootstrap" /></a>
        <a href="https://react.dev/"><img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' alt="react" /></a>
        <a href="https://typeScript.dev/"><img src='https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typeScript&logoColor=61DAFB' alt="typeScript" /></a>
-        <!--<img src="https://img.shields.io/badge/HTML-blue" /> 
-        <img src="https://img.shields.io/badge/CSS-blue" />
-        <img src="https://img.shields.io/badge/JavaScript-blue" />  
-        <img src="https://img.shields.io/badge/TypeScript-blue" />
-        <img src="https://img.shields.io/badge/React-blue" /> 
-        <img src="https://img.shields.io/badge/Bootstrap-blue" /> 
-        <img src="https://img.shields.io/badge/SASS-blue" /> -->
       </td>      
       <td valign="center" align="center" width="350px"> <!--Backend-->
        <a href="https://node.js.org/"><img src='https://img.shields.io/badge/Node-8DD6F9?style=for-the-badge&logo=Node&logoColor=green' alt="Node" /></a>
       <!--  <img src="https://img.shields.io/badge/Ruby-blue" /> 
         <img src="https://img.shields.io/badge/Rails-blue" />  -->
-        <img src="https://img.shields.io/badge/Node.js-blue" /> 
+         <!-- <img src="https://img.shields.io/badge/Node.js-blue" /> 
 <!--         <img src="https://img.shields.io/badge/Python-blue" />  
 <!--         <img src="https://img.shields.io/badge/Java-blue" /> -->
       </td>
@@ -63,10 +56,9 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmhreG9jcWFpdXNod2szOHYyNT
        <a href="https://jestjs.io/"><img src='https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white' alt="jest" /></a>
        <a href="https://testing-library.com/docs/react-testing-library/intro/"><img src='https://img.shields.io/badge/-React_Testing_Library-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white' alt="react-testing-library" /></a>
        <a href="https://viteJS.com/docs/viteJS/intro/"><img src='https://img.shields.io/badge/ViteJS-%23E33332?style=for-the-badge&logo=viteJS&logoColor=white' alt="viteJS" /></a>
-       <!-- <img src="https://img.shields.io/badge/ViteJS-blue" />
-        <img src="https://img.shields.io/badge/Webpack-blue" /> 
-        <img src="https://img.shields.io/badge/TDD-blue" />
-        <img src="https://img.shields.io/badge/Jest-blue" /> 
+      
+        <!--  <img src="https://img.shields.io/badge/TDD-blue" />
+
        <!-- <img src="https://img.shields.io/badge/MySQL-blue" /> 
         <img src="https://img.shields.io/badge/PostgreSQL-blue" /> -->
       </td>
@@ -79,14 +71,12 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmhreG9jcWFpdXNod2szOHYyNT
     </tr>
     <tr>
      <td valign="center" align="center" width="350px">
-      <a href="https://www.adobe.com/"><img src='https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white' alt="adobe" /></a>
-<a href="https://www.figma.com/"><img src='https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white' alt="figma" /></a>
-<a href="https://www.canva.com/"><img src='https://img.shields.io/badge/Canva-F24E1E?style=for-the-badge&logo=canva&logoColor=white' alt="canva" /</a>     
-       <!--<img src="https://img.shields.io/badge/Adobe Photoshop-blue" /> 
-       <img src="https://img.shields.io/badge/Adobe After Effects-blue" /> 
-       <img src="https://img.shields.io/badge/Adobe Premiere Pro-blue" /> 
-       <img src="https://img.shields.io/badge/Figma-blue" /> 
-       <img src="https://img.shields.io/badge/Canva-blue" />
+      <a href="https://www.adobe.com/"><img src='https://img.shields.io/badge/Adobe Photoshop-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white' alt="adobe" /></a>
+      <a href="https://www.adobe.com/"><img src='https://img.shields.io/badge/Adobe After Effects-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white' alt="adobe" /></a>
+      <a href="https://www.adobe.com/"><img src='https://img.shields.io/badge/Adobe Premiere Pro-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white' alt="adobe" /></a>
+      <a href="https://www.figma.com/"><img src='https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white' alt="figma" /></a>
+      <a href="https://www.canva.com/"><img src='https://img.shields.io/badge/Canva-F24E1E?style=for-the-badge&logo=canva&logoColor=white' alt="canva" /</a>     
+       <!--
        <img src="https://img.shields.io/badge/WebGL-blue" /> 
        <img src="https://img.shields.io/badge/Three.js-blue" /> -->
       </td>
