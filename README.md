@@ -73,9 +73,9 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmhreG9jcWFpdXNod2szOHYyNT
     </tr>
     <tr>
      <td valign="center" align="center" width="350px">
-      <a href="https://www.adobe.com/"><img src='https://img.shields.io/badge/Adobe Photoshop-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white' alt="adobe" /></a>
-      <a href="https://www.adobe.com/"><img src='https://img.shields.io/badge/Adobe After Effects-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white' alt="adobe" /></a>
-      <a href="https://www.adobe.com/"><img src='https://img.shields.io/badge/Adobe Premiere Pro-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white' alt="adobe" /></a>
+      <a href="https://www.adobe.com/"><img src='https://img.shields.io/badge/Adobe -%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white' alt="adobe" /></a>
+      <!--<a href="https://www.adobe.com/"><img src='https://img.shields.io/badge/Adobe After Effects-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white' alt="adobe" /></a>
+      <a href="https://www.adobe.com/"><img src='https://img.shields.io/badge/Adobe Premiere Pro-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white' alt="adobe" /></a>-->
       <a href="https://www.figma.com/"><img src='https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white' alt="figma" /></a>
       <a href="https://www.canva.com/"><img src='https://img.shields.io/badge/Canva-F24E1E?style=for-the-badge&logo=canva&logoColor=white' alt="canva" /</a>     
        <!--
