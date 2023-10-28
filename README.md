@@ -44,8 +44,8 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmhreG9jcWFpdXNod2szOHYyNT
        <a href="https://typeScript.dev/"><img src='https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typeScript&logoColor=61DAFB' alt="typeScript" /></a>
       </td>      
       <td valign="center" align="center" width="350px"> <!--Backend-->
-       <!--<a href="https://node.js.org/"><img src='https://img.shields.io/badge/Node-8DD6F9?style=for-the-badge&logo=Node&logoColor=green' alt="Node" /></a>-->
-       [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)]
+       <a href="https://node.js.org/"><img src='https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A' alt="Nodejs Badge" /></a>
+       <!--[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)]
       <!--  <img src="https://img.shields.io/badge/Ruby-blue" /> 
         <img src="https://img.shields.io/badge/Rails-blue" />  -->
          <!-- <img src="https://img.shields.io/badge/Node.js-blue" /> 
