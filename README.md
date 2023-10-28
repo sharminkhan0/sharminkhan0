@@ -35,8 +35,8 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmhreG9jcWFpdXNod2szOHYyNT
     </tr>
     <tr>
       <td valign="center" align="center" width="350px"> <!--frontend-->
-       <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src='https://img.shields.io/badge/html-red.svg?style=for-the-badge&logo=html&logoColor=red' alt="HTML Badge" /></a>
-       <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src='https://img.shields.io/badge/css-blue.svg?style=for-the-badge&logo=css&logoColor=blue' alt="CSS Badge" /></a>
+       <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src='https://img.shields.io/badge/html-red.svg?style=for-the-badge&labelColor=html&logoColor=red' alt="HTML Badge" /></a>
+       <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src='https://img.shields.io/badge/css-blue.svg?style=for-the-badge&labelColor=css&logoColor=blue' alt="CSS Badge" /></a>
        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src='https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E' alt="javascript" /></a>
        <a href="https://sass-lang.com/"><img src='https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white' alt="sass" /></a> 
 <a href="https://getbootstrap.com/"><img src='https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white' alt="bootstrap" /></a>
